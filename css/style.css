@@ -1,0 +1,47 @@
+.navbar-brand {
+  margin-right: 4.5%;
+  margin-left: 2%;
+}
+
+.botfas {
+  margin-right: 2%;
+}
+
+.floatboi {
+  float: right;
+}
+
+.margot {
+  margin-top: 2%;
+  margin-bottom: 0%
+}
+
+@media (max-width: 1200px) {
+  .navbar-brand {
+    margin-right: 3.5%;
+    margin-left: 1%;
+  }
+}
+
+@media (max-width: 768px) {
+  .serah {
+    margin-top: 10px;
+  }
+
+  .mobilever {
+    border-radius: 100%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+  }
+
+  h7 {
+    font-size: 16px;
+  }
+
+  h5 {
+    font-size: 24px;
+  }
+}
